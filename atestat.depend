@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1652385835 source:c:\users\oinac\onedrive\desktop\atestat\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1652522619 source:c:\users\oinac\onedrive\desktop\atestat_forma_actuala\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1652995528 source:c:\users\oinac\onedrive\desktop\atestat_forma_actuala(3)\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1652995528 source:c:\users\oinac\onedrive\desktop\atestat_final_oinacaru\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
